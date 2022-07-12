@@ -21,15 +21,6 @@ def solution(n):
             else:
                 count += 1
     return count
-def solution(n):
-    count = 0
-    for I in range(2,n+1)
-        for J in range(2,n):
-            if I%J == 0:
-                break
-            else:
-                count += 1
-    return count    
 </code></pre>
 설명 : 단순 브루트 포스 문제로 소수를 판별하기 위해 for문을 사용하여 모든 해의 적합성을 판별한다.
 
