@@ -9,6 +9,20 @@ log(N)의 시간복잡도를 요구하는 문제
 이진 탐색의 필요충분 조건의 종료조건이다.
 
 ## 3. 예시
+### 완전 탐색
+<pre><code>
+target = 25
+answer = 0
+m_list = [30, 94, 27, 92, 21, 37, 25, 47, 25, 53, 98, 19, 32, 32, 7]
+length = len(m_list)
+
+for i in range(0, length):
+    if m_list[i] == 25:
+        answer = i
+        break
+print("tartget의 인덱스 : ", answer)
+</code></pre>
+
 ### 정방향 이진 탐색
 <pre><code>
 target = 25
