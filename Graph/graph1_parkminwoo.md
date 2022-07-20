@@ -6,4 +6,4 @@
 #### (2)플로이드 와샬 알고리즘
 설명 : 최단 경로를 구하는 알고리즘 중 하나로 '거쳐가는 정점'을 기준으로 알고리즘을 수행함.
 
-[해당 문제 설명 링크] ([https://heestory217.tistory.com/126](https://gom20.tistory.com/178))
+[해당 문제 설명 링크] (https://gom20.tistory.com/178)
