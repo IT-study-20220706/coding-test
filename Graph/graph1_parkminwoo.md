@@ -9,7 +9,8 @@
 [해당 문제 설명 링크] (https://gom20.tistory.com/178)
 
 #### (3)문제 정답 코드
-''' python
+<pre>
+<code>
 def solution(n, results):
     answer = 0
     board = [[0]*n for _ in range(n)]
@@ -30,4 +31,5 @@ def solution(n, results):
         if row.count(0) == 1:
             answer += 1
     return answer
-'''
+</pre>
+</code>
