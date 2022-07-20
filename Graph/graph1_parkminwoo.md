@@ -10,6 +10,7 @@
 
 #### (3)문제 정답 코드
 '''
+
 def solution(n, results):
     answer = 0
     board = [[0]*n for _ in range(n)]
