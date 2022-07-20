@@ -31,7 +31,5 @@ def solution(n, results):
         if row.count(0) == 1:
             answer += 1
     return answer
-</pre>
 </code>
-
-### ()
+</pre
