@@ -9,8 +9,7 @@
 [해당 문제 설명 링크] (https://gom20.tistory.com/178)
 
 #### (3)문제 정답 코드
-'''
-
+''' python
 def solution(n, results):
     answer = 0
     board = [[0]*n for _ in range(n)]
